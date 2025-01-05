@@ -14,3 +14,4 @@ langchainhub
 mlx
 langchain-objectbox
 sse_starlette
+mlx_lm
