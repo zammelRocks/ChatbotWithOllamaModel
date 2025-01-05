@@ -1,0 +1,16 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+groq
+cassio
+langchain-groq
+wikipedia
+langchainhub
+mlx
+langchain-objectbox
+sse_starlette
